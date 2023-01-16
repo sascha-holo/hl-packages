@@ -1,0 +1,23 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
+
+PackageIdentifier: Holo-Light.AR3SPRO
+PackageVersion: 2200.1.0.0
+Installers:
+- Architecture: x64
+  InstallerType: exe
+  InstallerUrl: https://publishingbucket.s3.eu-central-1.amazonaws.com/ARES+Pro+Server+SA/AR3S+PRO+Server+2022.1.0.0+Installer.exe
+  InstallerSha256: 100C0035D12EB65C122E1E36DE593C3C83D73CB518BC4C87576302F7266FAFC6
+  InstallerSwitches:
+    Silent: quiet
+    SilentWithProgress: qn
+- Architecture: x64
+  InstallerType: exe
+  InstallerUrl: https://publishingbucket.s3.eu-central-1.amazonaws.com/ARES+Pro+Server+SA/AR3S+PRO+Server+2022.1.0.0+Installer.exe
+  InstallerSha256: 100C0035D12EB65C122E1E36DE593C3C83D73CB518BC4C87576302F7266FAFC6
+  InstallerSwitches:
+    Silent: quiet
+    SilentWithProgress: qn
+ManifestType: installer
+ManifestVersion: 1.2.0
+

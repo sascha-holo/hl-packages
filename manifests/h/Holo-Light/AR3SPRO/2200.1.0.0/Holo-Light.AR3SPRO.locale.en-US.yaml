@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
+
+PackageIdentifier: Holo-Light.AR3SPRO
+PackageVersion: 2200.1.0.0
+PackageLocale: en-US
+Publisher: Holo-Light
+PackageName: AR3S PRO Server
+License: Proprietary
+Copyright: Copyright (C) 2022 Holo-Light
+ShortDescription: AR3S PRO Server
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0
+
